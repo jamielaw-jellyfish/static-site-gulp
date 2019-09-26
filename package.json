@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-better-rollup": "^4.0.1",
+    "gulp-jsbeautifier": "^3.0.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-purgecss": "^1.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-twig": "^1.2.0",
+    "rollup": "^1.21.4"
+  }
+}
